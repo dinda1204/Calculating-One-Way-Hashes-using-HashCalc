@@ -4,6 +4,11 @@
 1. Download Software Hashcalc di link berikut ini :
    https://hashcalc.softonic-id.com/
 
+
+
+
+
+
 2. Install Aplikasi yang sudah di download
    ![6](https://github.com/user-attachments/assets/de18c81b-d8b2-456b-881f-23c327c2ca1b)
 ![7](https://github.com/user-attachments/assets/7548e3fe-b993-40f4-952a-8278580e8536)
